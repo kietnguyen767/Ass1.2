@@ -21,7 +21,7 @@ export default async function ProductPage({
             </svg>
           </div>
           <h2 className="text-2xl font-bold text-gray-900 mb-2">Product Not Found</h2>
-          <p className="text-gray-600 mb-6">The product you're looking for doesn't exist.</p>
+          <p className="text-gray-600 mb-6">The product you are looking for does not exist.</p>
           <Link
             href="/"
             className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-xl font-medium hover:shadow-lg hover:shadow-blue-500/50 transition-all duration-300"
